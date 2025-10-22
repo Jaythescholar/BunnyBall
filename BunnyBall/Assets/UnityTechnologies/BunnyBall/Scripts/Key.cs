@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Key : MonoBehaviour
-{
+{//This  is a variable for the shockwave prefab
     [SerializeField] GameObject shockwavePrefab;
+    //This is a variable for the game manager.
     [SerializeField] GameManager gameManager;
 
     private void Start()
-    {
+    {// This function runs once at beginning of the game
         gameManager = FindObjectOfType<GameManager>();
     }
     private void OnTriggerEnter(Collider other)
