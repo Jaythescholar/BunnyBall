@@ -1727,3 +1727,43 @@ Received Import Request.
 Start importing Assets/UnityTechnologies/BunnyBall/Scenes/level1 3.unity using Guid(4bc371128df5198438dfa904747b8f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3315902ddc959247e6a950b6355c06a') in 0.0088793 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+========================================================================
+Received Import Request.
+  Time since last request: 85886.087863 seconds.
+  path: Assets/UnityTechnologies/BunnyBall/Scripts/LevelManager.cs
+  artifactKey: Guid(480b8f2586abe364db879099dcf09d08) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/UnityTechnologies/BunnyBall/Scripts/LevelManager.cs using Guid(480b8f2586abe364db879099dcf09d08) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f7fed2f7c200a7b036e09a0af29d53dc') in 2.9045239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001831 seconds.
+  path: Assets/UnityTechnologies/BunnyBall/Scenes/level1 2.unity
+  artifactKey: Guid(7afdb91164263e44aa3ebee7ad4fc191) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/UnityTechnologies/BunnyBall/Scenes/level1 2.unity using Guid(7afdb91164263e44aa3ebee7ad4fc191) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '48d22b952dbf45dda19f0eba2c7f6ef1') in 0.1361631 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Crate - URP.mat
+  artifactKey: Guid(3b5cc91c3bf8cf74391252247f52fb59) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Crate - URP.mat using Guid(3b5cc91c3bf8cf74391252247f52fb59) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '73db1453e6ab73fdc54ec3ef0b9398ae') in 0.3103564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.187252 seconds.
+  path: Assets/UnityTechnologies/BunnyBall/Scenes/level2.unity
+  artifactKey: Guid(7afdb91164263e44aa3ebee7ad4fc191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/BunnyBall/Scenes/level2.unity using Guid(7afdb91164263e44aa3ebee7ad4fc191) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '032cb16fd8e469e3c745902860234b69') in 0.0151708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.533630 seconds.
+  path: Assets/UnityTechnologies/BunnyBall/Scenes/level2.unity
+  artifactKey: Guid(7afdb91164263e44aa3ebee7ad4fc191) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/UnityTechnologies/BunnyBall/Scenes/level2.unity using Guid(7afdb91164263e44aa3ebee7ad4fc191) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd4852d7d7c1f75a6c0443c364f3c65a7') in 0.0577058 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
